@@ -1,5 +1,6 @@
 # Connect-4
-MULTIPLAYER CONNECT 4 GAME 
+#MULTIPLAYER CONNECT 4 GAME 
+
 Files:-
 1) 2_player - to play multiplayer on same device
 2) vs ai - to play against ai on same device
